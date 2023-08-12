@@ -1,4 +1,4 @@
-### Hi there 👋d
+### Hi there 👋
 
 ![Grodd91 github stats](https://github-readme-stats.vercel.app/api?username=Grodd91&show_icons=true&hide_border=true)
 
